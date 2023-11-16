@@ -1,4 +1,4 @@
-# Network topologies
+# Networks
 
 ### The different ways computer connections and devices are arranged are called *topologies*.
 
@@ -43,6 +43,19 @@ A personal area network (PAN) is the term given to connected devices that are lo
 A local area network (LAN) is a single network that is located in a small geographical area such as someone's home, an office, or to cover a school site.
 
 A wide area network (WAN) is a network that connects two or more networks over a wider geographical area. Networks can be further classified as client–server or peer-to-peer. This classification explains the role that devices have within a network and is not directly related to whether the network is a PAN, LAN, or WAN.
+
+## Wirelesss networking
+
+- Wireless networks allow clients to communicate 
+within a network without being physically 
+connected to it. 
+
+- Wireless networks require a wireless access 
+point, which connects to a wired network just like 
+any other client would, and a wireless network 
+adapter in the device that connects to the wireless 
+network. 
+
 
 ## Wi-FI
 
